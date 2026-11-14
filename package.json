@@ -95,7 +95,7 @@
         "express-static-gzip": "~2.1.8",
         "feed": "~4.2.2",
         "form-data": "~4.0.5",
-        "gamedig": "~5.3.2",
+        "gamedig": "github:hasankayra04/node-gamedig#nethernet",
         "globalping": "~0.2.0",
         "html-escaper": "~3.0.3",
         "http-cache-semantics": "~4.3.0",
